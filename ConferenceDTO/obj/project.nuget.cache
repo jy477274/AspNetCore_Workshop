@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dB0Me9+yb79lMmDHS0Ne9TAhOWej5ZLLmvaWHtEfoZLbA5abDD7c55r1TxlnkDQlL1+ue+5/8IefORktFnPBEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jayden\\Projects\\ConferencePlanner\\ConferenceDTO\\ConferenceDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jayden\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jayden\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jayden\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
