@@ -66,7 +66,7 @@ namespace Frontend.Services
 
         public async Task<List<SessionResponse>> GetSessionsAsync()
         {
-            var response = await _httpClient.GetAsync("/api/sessions");
+            var response = await _httpClient.GetAsync($"/api/sessions");
 
             response.EnsureSuccessStatusCode();
 
@@ -101,7 +101,7 @@ namespace Frontend.Services
 
         public async Task<List<SpeakerResponse>> GetSpeakersAsync()
         {
-            var response = await _httpClient.GetAsync("/api/speakers");
+            var response = await _httpClient.GetAsync($"/api/speakers");
 
             response.EnsureSuccessStatusCode();
 
